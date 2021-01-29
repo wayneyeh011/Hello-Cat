@@ -11,9 +11,9 @@ I love cat.
 [reference] (https://gist.github.com/billy3321/1001749662c370887c63bb30f26c9e6e)
 
 ### Listing
-1.Section_1
+1. Section_1
 ...1. example_1
 ...2. example_2
-2.Section_2
+2. Section_2
 ...* another example
-3.Section_3
+3. Section_3
