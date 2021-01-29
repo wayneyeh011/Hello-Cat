@@ -4,9 +4,9 @@ I'm now practicing github.
 I would like to be stepped by cat.
 
 ## play around the markdown file
-[ref1] (https://gist.github.com/billy3321/1001749662c370887c63bb30f26c9e6e)
+[ref1](https://gist.github.com/billy3321/1001749662c370887c63bb30f26c9e6e)
 
-[fef2] (https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+[ref2](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
 ### Listing
 1. Section 1
