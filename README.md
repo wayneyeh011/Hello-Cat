@@ -1,11 +1,7 @@
 # Hello-Cat
-practicing github
 
-I'm a student in the department of economics.
-Hope some coding can facilitate my works/reserach.
-I love cat.
-
-
+I'm now practicing github.
+I would like to be stepped by cat.
 
 ## play around the markdown file
 [ref1] (https://gist.github.com/billy3321/1001749662c370887c63bb30f26c9e6e)
