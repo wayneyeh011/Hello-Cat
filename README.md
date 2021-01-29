@@ -12,8 +12,8 @@ I love cat.
 
 ### Listing
 1. Section 1
-  ...1. example 1
-  ...2. example 2
+  - example 1
+  - example 2
 2. Section 2
   * another example
 3. Section 3
