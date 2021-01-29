@@ -5,6 +5,7 @@ I would like to be stepped by cat.
 
 ## play around the markdown file
 [ref1] (https://gist.github.com/billy3321/1001749662c370887c63bb30f26c9e6e)
+
 [fef2] (https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
 ### Listing
@@ -23,9 +24,4 @@ import pandas as pd
 ```python
 import numpy as np
 import pandas as pd
-```
-```R
-library(tseries)
-library(forecast)
-library(TSA)
 ```
